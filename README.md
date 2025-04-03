@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Improving my coding skills to become a better software developer, focusing on web development and problem-solving.<br>👯  Open-source projects, innovative software solutions, and anything related to web development.<br>🤝Enhancing my expertise in backend development and exploring advanced software engineering concepts.<br>🌱 Spanish (A2 level) , English (b1 level) diving deeper into full-stack development.<br>💬 Coding, Spain, coffee, and my journey towards living in Spain!<br>⚡  I’m absolutely in love with Spain, and my dream is to live in either Barcelona or Sevilla one day. Also, I can’t function without coffee!
+🔭  Improving my coding skills to become a better software developer, focusing on web development and problem-solving.<br>👯  Open-source projects, innovative software solutions, and anything related to web development.<br>🤝Enhancing my expertise in backend development and exploring advanced software engineering concepts.<br>🌱 Spanish (A2 level) , English (B1 level) diving deeper into full-stack development.<br>💬 Coding, Spain, coffee, and my journey towards living in Spain!<br>⚡  I’m absolutely in love with Spain, and my dream is to live in either Barcelona or Sevilla one day. Also, I can’t function without coffee!
 
 
 ## 🌐 Socials:
